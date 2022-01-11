@@ -23,4 +23,5 @@ https://www.kaggle.com/samextensibleenergy/agricultural-commodity-dataset
     - Clean the dataset to remove any anomalies
     - Discover patterns/trends/relationships within the data that describe ways in which vegetable price change can be predicted.
 
-### Thank You [AI Students Community](https://aistudent.community/), [Intel AI for Youth](https://www.intel.com/content/www/us/en/corporate-responsibility/ai-4-youth-video.html) and [CBSE](https://www.cbse.gov.in/cbsenew/cbse.html) for this challenge
+### Thank You [AI Students Community](https://aistudent.community/)
+by [Intel AI for Youth](https://www.intel.com/content/www/us/en/corporate-responsibility/ai-4-youth-video.html) and [CBSE](https://www.cbse.gov.in/cbsenew/cbse.html) for this challenge
